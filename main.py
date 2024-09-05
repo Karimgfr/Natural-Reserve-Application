@@ -48,18 +48,3 @@ if __name__ == "__main__":
 
 
 
-### Section 5 
-    
-
-
-
-#test
-
-from api_queries import query_api, query_natura2000,query_znieff1,query_znieff2
-
-
-
-
-
-
-
