@@ -22,7 +22,7 @@ Below is a photo demonstration of the application in action:
 2. Select a natural reserves database (Natura2000, ZNIEFF1, ZNIEFF2).
 3. The application retrieves and displays relevant natural reserves on an interactive map.
 
-![Application Demonstration](Streamlit_example.PNG)
+![Application Demonstration](Streamlit_example.png)
 
 ### 🛠️ Technologies Used
 
